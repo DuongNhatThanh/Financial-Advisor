@@ -1,0 +1,21 @@
+cookie:
+  expiry_days: 30
+  key: '123456'
+  name: Nextday
+credentials:
+  usernames:
+    jsmith:
+      email: jsmith@gmail.com
+      name: John Smith
+      password: $2b$12$5jgI/cexpzT1uOd3Ruor.uesaVSXf8dK6pMvS2YlPveHU1sUhBFeq
+    nhatthanh:
+      email: duongnhatthanh2011@gmail.com
+      name: Duong Nhat Thanh
+      password: $2b$12$Ii97EpZlGH4V.I40I8ywyuu.hFOkXUyON6oVm55yEa/55SUzrkZ/u
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: $2b$12$w0PPIUBIC/bjKsmIRltukeTvEegioHW1.I8gGP8JSZmTo3eI5FrLW
+preauthorized:
+  emails:
+  - melsby@gmail.com
